@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m hcj!
+## 👋 Hi there, I’m Ritchie Hong!
 
 🎓 I'm currently an undergraduate Computer Science student at **University College London (UCL)**.
 
