@@ -1,4 +1,4 @@
-<h1 align="center">👋 大家好呀，这里是 hcj！</h1>
+<h1 align="center">👋 Hello, here's Ritchie Hong！</h1>
 
 ---
 
@@ -27,6 +27,6 @@
 
 ### 📊 GitHub Stats
 
-![hcj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=dark)
+![hcj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evave1204&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evave1204&layout=compact&theme=dark)
 
