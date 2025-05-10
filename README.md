@@ -1,27 +1,12 @@
-<h1 align="center">👋 Hello, here's Ritchie Hong！</h1>
+## 👋 Hi there, I’m hcj!
 
----
+🎓 I'm currently an undergraduate Computer Science student at **University College London (UCL)**.
 
-### About Me 😎
+💡 My current interests include:
+- 🕹️ **Reinforcement Learning** based on game environments or character models
+- 🌌 **Physics-informed deep learning** and large model compression
 
-- 👀 I’m interested in vascular tree analysis and image processing.
-- 🌱 I’m currently doing a Master's in Computer Science at UCL.
-- 💬 Ask me about Python, PyTorch, or Computer Vision.
-
----
-
-### 🔧 Recent Projects
-
-- 🧠 Skeleton-based vascular tree analysis
-- 🕸️ Multi-branch level assignment with river-ordering
-- 📏 Radius & angle extraction via post-skeleton processing
-
----
-
-### 🧠 Interests
-
-- Vascular Structure Modeling, Medical Image Processing
-- Language: Python, PyTorch, OpenCV, Markdown
+📫 Feel free to reach out or check out my projects below!
 
 ---
 
