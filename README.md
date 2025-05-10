@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">👋 大家好呀，这里是 hcj！</h1>
 
-<!--
-**Evave1204/Evave1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in vascular tree analysis and image processing.
+- 🌱 I’m currently doing a Master's in Computer Science at UCL.
+- 💬 Ask me about Python, PyTorch, or Computer Vision.
+
+---
+
+### 🔧 Recent Projects
+
+- 🧠 Skeleton-based vascular tree analysis
+- 🕸️ Multi-branch level assignment with river-ordering
+- 📏 Radius & angle extraction via post-skeleton processing
+
+---
+
+### 🧠 Interests
+
+- Vascular Structure Modeling, Medical Image Processing
+- Language: Python, PyTorch, OpenCV, Markdown
+
+---
+
+### 📊 GitHub Stats
+
+![hcj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=dark)
+
